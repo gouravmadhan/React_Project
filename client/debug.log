@@ -1,0 +1,5 @@
+[0108/225801.594:ERROR:process_info.cc(359)] UncheckedAllocate
+[0108/234341.040:ERROR:crashpad_client_win.cc(505)] CreateProcess: The paging file is too small for this operation to complete. (0x5AF)
+[0108/234341.072:ERROR:process_info.cc(359)] UncheckedAllocate
+[0108/234344.900:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0108/234347.395:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
